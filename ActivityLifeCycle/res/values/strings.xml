@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ActivityLifeCycleActivity!</string>
+    <string name="app_name">LabActivityLifeCycle</string>
+    <string name="secondtext">Second Activity has started. \nPress the Back button to return to the First Activity</string>
+    <string name="thirdtext">Third Activity has started. \nPress the Back button to return to the Second Activity</string>
+    <string name="fourthtext">Fourth Activity has started. \nPress the Back button to return to the Second  Activity</string>
+    <string name="firstactivitylabel">Activity Life Cycle: First Activity</string>
+    <string name="secondactivitylabel">Activity Life Cycle: Second Activity</string>
+    <string name="thirdactivitylabel">Activity Life Cycle: Third Activity</string>
+	<string name="fourthactivitylabel">Activity Life Cycle: Fourth Activity</string>
+</resources>
